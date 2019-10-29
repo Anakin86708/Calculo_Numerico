@@ -15,3 +15,6 @@ Calcula a integral em um determinado intervalo com uso do **método da área do 
 
 ### Interpolação
 Realiza a interpolação de um conjunto de pontos
+
+### Equações direfenciais
+Exercício com gráficos para uma equação diferencial
