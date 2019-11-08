@@ -17,4 +17,6 @@ Calcula a integral em um determinado intervalo com uso do **método da área do 
 Realiza a interpolação de um conjunto de pontos
 
 ### Equações direfenciais
-Exercício com gráficos para uma equação diferencial
+Exercício com gráficos para uma equação diferencial. Capaz de realizar:
+* Ocilador Harmônico Amortecido
+* Ocilador Harmônico Forçado
